@@ -1,0 +1,4 @@
+xAy/epoch_32.model filter=lfs diff=lfs merge=lfs -text
+xAy/stats_32.model filter=lfs diff=lfs merge=lfs -text
+xy/epoch_32.model filter=lfs diff=lfs merge=lfs -text
+xy/stats_32.model filter=lfs diff=lfs merge=lfs -text
